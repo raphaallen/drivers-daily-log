@@ -1,0 +1,10 @@
+{
+    "VEICULO": {
+        "CONSUMO_MEDIO_KM_L": 0.0,
+        "TIPO_COMBUSTIVEL": "El\u00e9trico"
+    },
+    "CUSTOS": {
+        "PRECO_COMBUSTIVEL_L": 0.0,
+        "CUSTO_FIXO_DIARIO": 96.0
+    }
+}
